@@ -31,6 +31,10 @@ public class Academytest {
 	   		  System.out.println("Flight Bookings");
 	     	}
 	   	 
+	     	public void WebsiteClick()  
+	     	{
+	   		  System.out.println("Website Click");
+	     	}
 	   	 
 	    }
 
